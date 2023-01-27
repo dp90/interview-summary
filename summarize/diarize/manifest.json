@@ -1,0 +1,1 @@
+{"audio_filepath": "./data/2min_reduced.wav", "offset": 0, "duration": null, "label": "infer", "text": "-", "num_speakers": null, "rttm_filepath": "./diarized/pred_rttms/audio_16k.rttm", "uniq_id": ""}
